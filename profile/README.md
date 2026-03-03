@@ -1,8 +1,13 @@
 # Black Candle Technologies
 
-We build offline-first and local-first software tools for developers and end users.
+We build developer tools that make AI and data infrastructure faster, cheaper, and more resilient.
 
-Our work focuses on giving applications resilience, privacy, and autonomy — whether that means caching and syncing data seamlessly without a network, or running AI assistants entirely on-device.
+## Flagship Product
+
+### Chitin
+A hosted AI gateway that optimizes every token — caching, semantic deduplication, context compression, and intelligent model routing. Zero infrastructure required.
+
+Chitin is a cloud-hosted proxy that sits between your applications and upstream LLM providers. Change one URL in your code and immediately get ≥40% token savings across all your LLM calls.
 
 ## Projects
 
