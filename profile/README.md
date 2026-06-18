@@ -1,1 +1,3 @@
+# Black Candle Technologies
+
 Black Candle Technologies is an open source software company building local-first tools for AI, automation, operations, and personal infrastructure. We believe useful software should be inspectable, self-hostable, and owned by the people running it instead of being locked behind fragile platforms, mandatory cloud accounts, or rented access forever. Our work focuses on giving developers, operators, small teams, and technical users practical software they can understand, extend, and run on infrastructure they control.
